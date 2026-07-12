@@ -1,2 +1,2 @@
-Aspiring Data Analyst | Python | SQL | Power BI | Tableau|ml
+Aspiring Data Analyst | Python | SQL | Power BI | Tableau
 
